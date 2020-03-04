@@ -1,0 +1,7 @@
+HTTP/1.1 405 Method Not Allowed 
+connection: close
+allow: GET
+server: Goliath
+date: Tue, 03 Mar 2020 23:13:52 GMT
+content-length: 0
+via: 1.1 vegur
